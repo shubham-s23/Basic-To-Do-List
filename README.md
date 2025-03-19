@@ -1,4 +1,4 @@
-# oibsip_task_3_-LEVEL_2-_ToDOList
+# To Do List
 
 LINK => https://shubham-s23.github.io/Basic-To-Do-List/
 
